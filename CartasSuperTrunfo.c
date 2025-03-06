@@ -34,7 +34,7 @@ int main() {
 
     //solicitando dados da carta 2
     
-   printf("insira as informacoes da carta 2: .\n Estado: ");
+   printf("insira as informacoes da carta 2: .\n Estado: \n");
     scanf("%c",&Estado2);
 
     printf("Codigo da carta: \n");
