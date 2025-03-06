@@ -4,8 +4,8 @@ int main() {
    //Incluindo variaves nas cartas 1 e 2
 
     char Estado1, Estado2;
-    char  codigo1, codigo2;
-    char cidade1, cidade2;
+    char  codigo1[3], codigo2[3];
+    char cidade1[35], cidade2[35];
     int numero_de_pontos_turisticos1,numero_de_pontos_turisticos2, populacao1, populacao2;
     float area_km1, pib1, area_km2, pib2, densidade1, densidade2, pib_percapita1, pib_percapta2;
     
