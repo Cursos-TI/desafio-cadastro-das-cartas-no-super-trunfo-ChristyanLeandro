@@ -56,7 +56,6 @@ int main() {
     printf("Numeros de pontos turisticos: \n");
     scanf("%d", &numero_de_pontos_turisticos2);
 
-
    //Incluindo variáveis de cálculo densidade e pib per capita
 
    densidade1 = populacao1 / area_km1;
